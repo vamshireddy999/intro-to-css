@@ -1,0 +1,68 @@
+#mainheading{
+    color: orangered;
+    background-color: lightgray;
+    text-align: center;
+    font-size: 2.5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 1px 1px 1px black;
+    box-shadow: 5px 5px 5px orangered;
+    border: 2px dotted orangered;
+    border-radius: 20px ;
+}
+#eatala{
+    color: orangered;
+    text-align: left;
+}
+#rajender{
+    color: orangered;
+    background-color: lightgray;
+    text-align: center;
+    font-size: 2.5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 1px 1px 1px black;
+    box-shadow: 5px 5px 5px orangered;
+    border: 3px double orange;
+    border-radius: 20px;
+}
+#bandi{
+    color: orangered;
+    background-color: lightgreen;
+    text-align: center;
+    font-size: 2.5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow:2px 2px 2px black ;
+    box-shadow:5px 5px 5px greenyellow ;
+    border:3px dotted black ;
+    border-radius:20px ;
+}
+#bandi2{
+    color: darkblue;
+}
+#kishan{
+    color: orangered;
+    background-color: lime;
+    text-align: center;
+    font-size: 2.5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 2px 2px 2px black;
+    box-shadow: 5px 5px 5px black;
+    border: 3px dashed fuchsia;
+    border-radius: 20px;
+}
+#kishan2{
+    color: hotpink;
+}
+#raghu1{
+    color: orange;
+    background-color: blue;
+    text-align: center;
+    font-size: 2.5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 5px 5px 5px black ;
+    box-shadow: 5px 5px 5px hotpink;
+    border: 3px dotted orange;
+    border-radius: 20px;
+}
+#raghu{
+    color: green;
+}
